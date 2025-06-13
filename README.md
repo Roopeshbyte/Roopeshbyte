@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roopeshbyte
+- 👋 Hi, I’m @Roopeshyadav
 - 👀 I’m interested in VLSI & Embedded projects
 - 🌱 I’m currently learning Hardware descriptive languages like Verilog,system verilog..
 - 💞️ I’m looking to collaborate on Intermediate level projects
