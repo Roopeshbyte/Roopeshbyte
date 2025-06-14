@@ -1,0 +1,10 @@
+module mux2x1 (
+    input wire a,      // First input
+    input wire b,      // Second input
+    input wire sel,    // Select line
+    output wire y      // Output
+);
+
+assign y = sel ? b : a;
+
+endmodule
